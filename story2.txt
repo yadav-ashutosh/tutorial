@@ -1,1 +1,2 @@
 This is the second file , edited in notepad. staging!
+cout<<n<<endl;
